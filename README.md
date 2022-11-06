@@ -7,11 +7,11 @@
 ### Hey 🙋‍♂️, pharmacists ⚕️
 ## Problem we are Solving
 ---
-### We know pharmacists have to manage a lots of medicine records, and it's horrible and annoying. So we came up with a solution
+### It is hard to manage the inventory in medical store, like keeping the track of the medicines like unsold and best selling medicines, our application solves this problem
 ---
 ## Solution
 ----
-### So, Here we come with a solution for you, we made an application which allow you to store and manage the records of medinces.
+### So, Here we come with a solution for you, we made an application which allow you to store and manage the records of medicines,through our application you will get the insight of the medicines, it will also give you the medicines analytics like best selling, least selling and expired products. Throuh this we can leverage the hectic old physical log book using our digital platform.
 ### You have flexibility to manage all the stocks and their availability.
 
 ----
