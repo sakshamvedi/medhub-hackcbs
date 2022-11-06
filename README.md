@@ -1,5 +1,5 @@
 # MedHub
-[Live Link 👈👈](https://github.com/sakshamvedi/medhub-hackcbs)
+[Live Link 👈👈](https://medhubs.netlify.app/)
 ---
 ---
 ---
