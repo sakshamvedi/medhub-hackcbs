@@ -4,7 +4,7 @@ import Home from './Home';
 
   import Admin from './Admin';
 
-function App() {
+function App() { 
   return (
     <>
  {localStorage.getItem("names")!=null ? <Admin/> :<Home/>}
